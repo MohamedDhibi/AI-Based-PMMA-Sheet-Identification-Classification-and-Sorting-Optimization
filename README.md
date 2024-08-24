@@ -49,7 +49,7 @@ This project aims to develop an AI-based system to identify, classify, and optim
 - Prepare a user guide for system usage.
 - Finalize project documentation and report.
 
-## Milestones
+## Milestones :
 
 - **Milestone 1:** Completion of Data Acquisition and Preprocessing.
 - **Milestone 2:** Completion of Feature Extraction and Model Development.
@@ -57,7 +57,7 @@ This project aims to develop an AI-based system to identify, classify, and optim
 - **Milestone 4:** System Integration.
 - **Milestone 5:** Deployment and Finalization.
 
-## Resources
+## Resources :
 
 - Images gathered using the sorting station.
 - Python programming language
